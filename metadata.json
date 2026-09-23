@@ -1,0 +1,6 @@
+{
+  "name": "FrameAI",
+  "description": "AI director and smart camera for solo content creators with real-time framing and composition assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

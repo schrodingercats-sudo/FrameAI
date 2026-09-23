@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Frame Corners (Director Brackets) -->
+    <path
+        android:pathData="M34,42 L34,34 L42,34"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M74,42 L74,34 L66,34"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M34,66 L34,74 L42,74"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M74,66 L74,74 L66,74"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Center Outer Ring -->
+    <path
+        android:pathData="M54,54 m-14,0 a14,14 0 1,1 28,0 a14,14 0 1,1 -28,0"
+        android:strokeWidth="2.5"
+        android:strokeColor="#40FFFFFF" />
+
+    <!-- Center Glowing Shutter / AI Eye -->
+    <path
+        android:pathData="M54,54 m-9,0 a9,9 0 1,1 18,0 a9,9 0 1,1 -18,0"
+        android:fillColor="#FFFF176A" />
+
+    <!-- AI Sparkle Core -->
+    <path
+        android:pathData="M54,50 L55.2,53 L58,54 L55.2,55 L54,58 L52.8,55 L50,54 L52.8,53 Z"
+        android:fillColor="#FFFFFFFF" />
+</vector>
